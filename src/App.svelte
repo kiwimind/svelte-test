@@ -1,5 +1,5 @@
 <script>
-	let name = "Bash";
+	let name = "World";
 </script>
 
 <main>
